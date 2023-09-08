@@ -89,9 +89,11 @@ function combinarDosArrays(array1, array2) {
                inx1++
                inx2++
            }
-       } */
+       } 
+       return array
+       */
 
-    return array
+    
 }
 
 const array1 = [1, 2, 5, 10]
