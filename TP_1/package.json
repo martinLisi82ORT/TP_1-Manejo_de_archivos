@@ -9,6 +9,6 @@
     "watch": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Martin Lisi 21D",
   "license": "ISC"
 }
